@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/fgf23/renxhttp:latest
+          tags: ghcr.io/fgf23/rnxhttp:latest
